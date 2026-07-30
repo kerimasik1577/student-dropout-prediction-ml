@@ -1,4 +1,5 @@
-Student Dropout Prediction & Early Warning System
+# Student Dropout Prediction & Early Warning System
+
 
 An end-to-end Machine Learning and Deep Learning pipeline designed to identify higher education students at risk of dropping out. By reforming the target structure, engineering non-linear interaction features, and optimizing decision thresholds, this system achieves a 91.52% Accuracy and an 87.62% Dropout Recall rate.
 
